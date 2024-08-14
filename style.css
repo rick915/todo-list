@@ -19,11 +19,24 @@ div{
 
 div.enviar{
     margin-top: 2rem;
+    font-size: 1.25rem;
 }
 
-div.check{
+div.check_1{
     margin-top: 0.5rem;
+    font-size: 1.25rem;
 }
+
+div.check_2{
+    margin-top: 0.5rem;
+    font-size: 1.25rem;
+}
+
+div.check_3{
+    margin-top: 0.5rem;
+    font-size: 1.25rem;
+}
+
 
 button{
     margin-left: 1.25rem;
